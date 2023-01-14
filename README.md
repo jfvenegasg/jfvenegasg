@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfvenegasg&show_icons=true&theme=transparent) 
+  <img src="https://github-readme-stats.vercel.app/api?username=jfvenegasg&show_icons=true&theme=transparent /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfvenegasg&layout=compact" />
 </div>
