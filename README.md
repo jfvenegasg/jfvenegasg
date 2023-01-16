@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfvenegasg&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfvenegasg&show_icons=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfvenegasg&layout=compact" />
