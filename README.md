@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfvenegasg&card_width="500px" " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfvenegasg&card_width="500px"" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfvenegasg&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfvenegasg&hide_progress=true" />
 </a>
+
